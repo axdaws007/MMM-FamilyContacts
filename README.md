@@ -15,7 +15,7 @@ cd ~/MagicMirror/modules/
 
 2. Clone this repository:
 ```bash
-git clone https://github.com/yourusername/MMM-FamilyContacts.git
+git clone https://github.com/axdaws007/MMM-FamilyContacts.git
 ```
 
 3. Add the module to your `config.js` file:
